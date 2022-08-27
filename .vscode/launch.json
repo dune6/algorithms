@@ -5,7 +5,7 @@
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart",
-            "program": "grokking-algorithms/02_selection_sort.dart"
+            "program": "grokking-algorithms/03_quick_sort.dart"
         }
     ]
 }
